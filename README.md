@@ -34,4 +34,4 @@ If you are short on time, check out my most detailed work here:
 All information in this repository is for **educational purposes only**. The techniques documented here are performed in isolated, authorized environments (CTFs, Home Labs). Do not use these techniques on systems you do not own or do not have explicit permission to test.
 
 ---
-[Connect with me on LinkedIn]([(https://www.linkedin.com/in/lekhrazz19/)] | [Follow me on X]([https://x.com/lekhii404)]****
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lekhrazz19/) | [Follow me on X](https://x.com/lekhii404)****
